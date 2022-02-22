@@ -4,7 +4,7 @@ import (
 	"crypto/ecdsa"
 	"crypto/sha256"
 	"encoding/pem"
-	"github.com/BSNDA/bsn-sdk-crypto/errors"
+	"github.com/qbhy/bsn-sdk-crypto/errors"
 )
 
 const (

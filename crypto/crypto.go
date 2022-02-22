@@ -2,9 +2,9 @@ package crypto
 
 import (
 	"crypto/ecdsa"
-	"github.com/BSNDA/bsn-sdk-crypto/crypto/eth"
-	"github.com/BSNDA/bsn-sdk-crypto/crypto/sm"
-	"github.com/BSNDA/bsn-sdk-crypto/errors"
+	"github.com/qbhy/bsn-sdk-crypto/crypto/eth"
+	"github.com/qbhy/bsn-sdk-crypto/crypto/sm"
+	"github.com/qbhy/bsn-sdk-crypto/errors"
 	"github.com/tjfoc/gmsm/sm2"
 	"math/big"
 )

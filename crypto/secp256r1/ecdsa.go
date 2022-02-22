@@ -13,7 +13,7 @@ import (
 	"io/ioutil"
 	"math/big"
 
-	"github.com/BSNDA/bsn-sdk-crypto/utils"
+	"github.com/qbhy/bsn-sdk-crypto/utils"
 )
 
 const publicKeyLength = 64

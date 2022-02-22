@@ -1,7 +1,7 @@
 package sm
 
 import (
-	"github.com/BSNDA/bsn-sdk-crypto/keystore/key"
+	"github.com/qbhy/bsn-sdk-crypto/keystore/key"
 )
 
 // ECDSAP256KeyGenOpts contains options for ECDSA key generation with curve P-256.

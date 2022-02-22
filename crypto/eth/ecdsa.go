@@ -12,11 +12,11 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/BSNDA/bsn-sdk-crypto/errors"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/crypto/secp256k1"
+	"github.com/qbhy/bsn-sdk-crypto/errors"
 )
 
 const ecPrivKeyVersion = 1

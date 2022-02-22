@@ -3,9 +3,9 @@ package secp256k1
 import (
 	"encoding/base64"
 	"fmt"
-	"github.com/BSNDA/bsn-sdk-crypto/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/qbhy/bsn-sdk-crypto/common"
 	"math/big"
 	"testing"
 )

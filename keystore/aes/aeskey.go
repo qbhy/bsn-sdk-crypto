@@ -23,7 +23,7 @@ import (
 	"crypto/sha256"
 	"errors"
 
-	"github.com/BSNDA/bsn-sdk-crypto/keystore/key"
+	"github.com/qbhy/bsn-sdk-crypto/keystore/key"
 )
 
 type aesPrivateKey struct {

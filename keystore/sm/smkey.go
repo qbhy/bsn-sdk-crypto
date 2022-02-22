@@ -5,8 +5,8 @@ import (
 	"crypto/sha256"
 	"fmt"
 
-	"github.com/BSNDA/bsn-sdk-crypto/errors"
-	"github.com/BSNDA/bsn-sdk-crypto/keystore/key"
+	"github.com/qbhy/bsn-sdk-crypto/errors"
+	"github.com/qbhy/bsn-sdk-crypto/keystore/key"
 	"github.com/tjfoc/gmsm/sm2"
 )
 

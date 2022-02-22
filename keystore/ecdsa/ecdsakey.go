@@ -27,7 +27,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/BSNDA/bsn-sdk-crypto/keystore/key"
+	"github.com/qbhy/bsn-sdk-crypto/keystore/key"
 )
 
 func NewEcdsaPrivateKey(privKey *ecdsa.PrivateKey) *EcdsaPrivateKey {

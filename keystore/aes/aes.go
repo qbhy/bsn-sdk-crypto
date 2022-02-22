@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/BSNDA/bsn-sdk-crypto/keystore/key"
+	"github.com/qbhy/bsn-sdk-crypto/keystore/key"
 )
 
 // GetRandomBytes returns len random looking bytes

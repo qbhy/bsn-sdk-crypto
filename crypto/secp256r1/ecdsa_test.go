@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/BSNDA/bsn-sdk-crypto/utils"
+	"github.com/qbhy/bsn-sdk-crypto/utils"
 )
 
 func TestNewPuk(t *testing.T) {

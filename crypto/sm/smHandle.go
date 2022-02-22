@@ -4,7 +4,7 @@ import (
 	"encoding/pem"
 	"math/big"
 
-	"github.com/BSNDA/bsn-sdk-crypto/errors"
+	"github.com/qbhy/bsn-sdk-crypto/errors"
 	"github.com/tjfoc/gmsm/sm2"
 	"github.com/tjfoc/gmsm/sm3"
 )

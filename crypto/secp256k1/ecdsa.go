@@ -15,8 +15,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/BSNDA/bsn-sdk-crypto/errors"
-	"github.com/BSNDA/bsn-sdk-crypto/utils"
+	"github.com/qbhy/bsn-sdk-crypto/errors"
+	"github.com/qbhy/bsn-sdk-crypto/utils"
 )
 
 const ecPrivKeyVersion = 1

@@ -7,11 +7,11 @@ import (
 	"io"
 	"reflect"
 
-	ecdsaUtil "github.com/BSNDA/bsn-sdk-crypto/crypto/secp256r1"
-	"github.com/BSNDA/bsn-sdk-crypto/errors"
-	"github.com/BSNDA/bsn-sdk-crypto/keystore/ecdsa"
-	"github.com/BSNDA/bsn-sdk-crypto/keystore/key"
-	"github.com/BSNDA/bsn-sdk-crypto/keystore/sm"
+	ecdsaUtil "github.com/qbhy/bsn-sdk-crypto/crypto/secp256r1"
+	"github.com/qbhy/bsn-sdk-crypto/errors"
+	"github.com/qbhy/bsn-sdk-crypto/keystore/ecdsa"
+	"github.com/qbhy/bsn-sdk-crypto/keystore/key"
+	"github.com/qbhy/bsn-sdk-crypto/keystore/sm"
 	"github.com/tjfoc/gmsm/sm2"
 )
 
